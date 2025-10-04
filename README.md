@@ -76,6 +76,4 @@ Built a hands-on implementation in Python.
 Note: The Caesar Cipher is not secure for modern use but serves as a foundation for understanding encryption.
 
 
----
 
-👉 Do you want me to also make a Task 2: Keylogger README description in the same style so your internship repo looks consistent?
